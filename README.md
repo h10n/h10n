@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nur Hakim</h1>
 <h3 align="center">A web developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue.js** and **React.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
