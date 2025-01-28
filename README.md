@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a web developer from Indonesia<br><br>- 🔭 I’m working as Junior Software Engineer<br>- 📚 I'm currently learning The Bun Tech Stack
+I'm a mobile and web developer from Indonesia
 
 
 ## 🌐 Socials:
@@ -19,9 +19,6 @@ I'm a web developer from Indonesia<br><br>- 🔭 I’m working as Junior Softwar
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=h10n&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=h10n&icon=0&color=0)](https://visitcount.itsvg.in)
